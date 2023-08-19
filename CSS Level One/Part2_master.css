@@ -1,0 +1,19 @@
+body{
+    background: url(https://img.freepik.com/free-vector/hand-drawn-minimal-background_23-2149005484.jpg?w=2000);
+}
+
+div{
+    background-color: cornflowerblue;
+    border-color: blueviolet;
+    border-width: 3px;
+    border-style: dotted;
+}
+p{
+    color: yellow;
+}
+
+span{
+    background: red;
+    color: black;
+
+}
