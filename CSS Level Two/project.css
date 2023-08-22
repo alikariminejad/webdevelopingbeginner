@@ -1,0 +1,29 @@
+h1{
+    text-align: center;
+    font-family: Arial;
+}
+.art{
+    margin: auto;
+}
+td{
+    background-color: black;
+    height: 300px;
+    width: 150px;
+    border: 5px solid white;
+}
+#one{
+    background-color: #EDD2E0;
+}
+
+#two{
+    background-color: #EDBBB4;
+}
+#three{
+    background-color: #DBABBE;
+}
+#four{
+    background-color: #BAA1A7;
+}
+#five{
+    background-color: #797B84;
+}
