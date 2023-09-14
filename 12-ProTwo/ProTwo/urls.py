@@ -19,6 +19,6 @@ from appTwo import views
 
 urlpatterns = [
     re_path(r'^$',views.index,name='index'),
-    re_path(r'^help',include('appTwo.urls')),
+    re_path('users/',include('appTwo.urls')),
     path('admin/', admin.site.urls),
 ]

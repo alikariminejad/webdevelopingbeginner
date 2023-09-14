@@ -3,5 +3,5 @@ from appTwo import views
 
 app_name = "first_app"
 urlpatterns = [
-    path("", views.help, name='help'),
+    path("", views.users, name='users'),
 ]
